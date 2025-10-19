@@ -1,1 +1,1 @@
-# joyeria-store
+# joyeria
